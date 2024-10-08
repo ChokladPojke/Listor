@@ -1,0 +1,15 @@
+ul {
+    list-style-type: upper-roman;
+}
+
+ol {
+    list-style-type: lower-greek;
+}
+
+ul ul {
+    list-style-type: circle;
+}
+
+body {
+    text-align: center;
+}
